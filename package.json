@@ -2,7 +2,7 @@
   "name": "myshopping-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/aurangg/rr.git",
+  "homepage": "https://github.com/aurangg/simplereactapp",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "gh-pages": "^2.0.1",
